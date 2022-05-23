@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LupiVolpi !
 - 🌱 I’m currently learning python and specializing in data science!
-- 💞️ I’m looking to collaborate on improving the use of high-quality data analysis in academia, with a special attention to my area of study, which is International Relations. 
+- 💞️ I’m looking to build a portfolio in Data Science, Data Analytics and/or Machine Learning
 
 <!---
 LupiVolpi/LupiVolpi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
